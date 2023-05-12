@@ -16,6 +16,7 @@ h1    /* Style à appliquer sur les titres h1 */
   text-align: center;
   color: #0A6FB0;
   letter-spacing: 0.5em;
+  color: white;
 }
 h2     /* Style à appliquer sur les sous-titres h2 */
 {
